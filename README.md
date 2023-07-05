@@ -1,4 +1,4 @@
-# Eduardo Pilati | Software developer
+# Eduardo Pilati | Desenvolvedor de Software
 
 7y+ Apaixonado por novos desafios
 
