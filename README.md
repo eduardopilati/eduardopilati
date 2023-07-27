@@ -1,14 +1,17 @@
 # Eduardo Pilati | Desenvolvedor de Software
 
-7y+ Apaixonado por novos desafios
+8y+ Apaixonado por novos desafios
 
 ## Resumo
 
-Sou Desenvolvedor Fullstack com uma experiência sólida em diversas tecnologias e não tenho qualquer dificuldade em aprender novas linguagens e frameworks. 
+Sou Desenvolvedor Full Stack há 8 anos e possuo experiência sólida em PHP/Laravel, Vue, Javascript/Typescript, Css/Sass/Postcss, Oracle PL/SQL e não tenho qualquer dificuldade em aprender novas linguagens e frameworks.
 
 Atualmente trabalho na criação de uma empresa própria e tenho como objetivo criar um projeto em todo seu escopo, desde a parte de criação e arquitetura até a implantação.
 
-Minha área principal é o Desenvolvimento Web e tenho conhecimento em Infraestrutura, Gerenciamento de projetos, Bancos de Dados e Marketing.
+Minha área principal é o Desenvolvimento Web e tenho conhecimento em Infraestrutura, Gerenciamento de Projetos, Bancos de Dados e Marketing.
+
+Estou estudando atualmente NextJS, NodeJS com NestJS.
+
 
 ## Objetivo
 
