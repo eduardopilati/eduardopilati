@@ -25,4 +25,4 @@ A site to intermediate sales of agricultural machinery.This site is developed in
 
 ## Links:
 
-[Linkedin](https://www.linkedin.com/in/eduardo-pilati/)
+[<img alt="Linkedin" src="https://github.com/eduardopilati/eduardopilati/blob/main/LinkedinLogo.png" height="32">](https://www.linkedin.com/in/eduardo-pilati/)
