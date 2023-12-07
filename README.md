@@ -2,9 +2,7 @@
 
 # Eduardo Pilati | Desenvolvedor de Software
 
-8y+ Apaixonado por novos desafios
-
-## Resumo
+*8y+ Apaixonado por novos desafios*
 
 Sou Desenvolvedor Full Stack há 8 anos e possuo experiência sólida em PHP/Laravel, Vue, Javascript/Typescript, Css/Sass/Postcss, Oracle PL/SQL e não tenho qualquer dificuldade em aprender novas linguagens e frameworks.
 
