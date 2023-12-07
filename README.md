@@ -23,4 +23,4 @@ Esse portal está sendo desenvolvido em Laravel (PHP) e Vue 3 e usa Websockets, 
 
 ## Links:
 
-[Linkedin](https://www.linkedin.com/in/eduardo-pilati/)
+[<img alt="Linkedin" src="https://github.com/eduardopilati/eduardopilati/blob/main/LinkedinLogo.png" height="32">](https://www.linkedin.com/in/eduardo-pilati/)
