@@ -19,7 +19,7 @@ Esse portal está sendo desenvolvido em Laravel (PHP) e Vue 3 e usa Websockets, 
 [Link](https://github.com/Agroarca/equipamentos)
 
 ## Wakatime
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pilati&layout=compact&langs_count=10&custom_title=Wakatime+Top+Languages)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pilati&layout=compact&langs_count=15&custom_title=Wakatime+Top+Languages)
 
 ## Links:
 
