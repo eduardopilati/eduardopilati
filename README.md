@@ -45,7 +45,7 @@ Há um padrão que se repete nos meus projetos — uma assinatura de arquitetura
 
 ## 🚀 Projetos em destaque
 
-### 🤖 LumionAI — atendimento no WhatsApp com IA auditável
+### 🤖 [LumionAI](https://github.com/LumionAI) — atendimento no WhatsApp com IA auditável
 > SaaS multi-tenant · .NET 10 · React 19 · *em desenvolvimento ativo*
 
 Atendimento no WhatsApp em que **a IA só responde quando tem confiança suficiente** —
